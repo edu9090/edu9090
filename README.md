@@ -1,4 +1,4 @@
-# Olá me nome é eduardo
+# Olá meu nome é eduardo
 
 -sou estudandante de analise e desenvolvimento de sistemas 
 -cursando na trilha do conhecimento nubetec
